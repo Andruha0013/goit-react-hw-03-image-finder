@@ -1,0 +1,2 @@
+export const USER_KEY="32355865-c929d0081293f1f48a699b3aa";
+export const ITEMS_PER_PAGE=12;
